@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Eeree_Directory>
+            <version>0.1.0</version>
+        </Eeree_Directory>
+    </modules>
+    <global>
+        <helpers>
+            <eeree_directory>
+                <class>Eeree_Directory_Helper</class>
+            </eeree_directory>
+        </helpers>
+        <resources>
+            <eeree_directory_setup>
+                <setup>
+                    <module>Eeree_Directory</module>
+                </setup>
+            </eeree_directory_setup>
+        </resources>
+    </global>
+</config>

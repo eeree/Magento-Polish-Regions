@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Eeree_Directory>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Eeree_Directory>
+    </modules>
+</config>
